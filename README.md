@@ -1,2 +1,5 @@
 # pia_programacion_basica_CLIdeanalisisdedatos
-pia de programacion basica del grupo 083 por Tadeo Sauceda Flores si su equipo no se pone de acuerdo con esto
+pia de programacion basica del grupo 083 por Tadeo Sauceda Flores si su equipo no se pone de acurdo.
+Este codigo esta diseñado por Tadeo Sauceda Flores ya que su equipo no habia mandado su parte el dia 20/05/2025 para antes del medio dia y a el le tocaba organizar todo el codigo y que las funciones funcionaran corectamente y sean compatibles entre si.
+este codigo carga un archivo .csv que contiene la informacion de ingresos y gastos de una familia. el archivo tiene que estar diseñado con el siguiente formato en la primera fila (fecha, monto, categoria) 
+usa las biblotecas de panda, matplotlib y os para crear graficas de pastel dividida por categoria y graficas de barra dividido por dias las cuales son convertidas en archvos .jpg, tambien dice cual es el ingreso mayor y menor permitiendo que se cree un nuevo archivo con los datos de forma el la cual se vea de mayor a menor los gastos o acomodada cronologicamente, al final permite convertir el archivo .csv en un .xlsx
