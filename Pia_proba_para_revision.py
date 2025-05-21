@@ -1,4 +1,5 @@
  #Pia de Tadeo Sauceda Flores por que su equipo no se puso deacuerdo
+ #Rubén Tristan Covarrubias Flores 2161853 si hizo su parte del trabajo (graficas)
 import pandas as pd
 import matplotlib.pyplot as plt
 import os
