@@ -1,5 +1,5 @@
 # pia_programacion_basica_CLIdeanalisisdedatos
-Tadeo Sauceda Flores 1953762 \n 
+Tadeo Sauceda Flores 1953762 {\n} 
 pia de programacion basica del grupo 083 por Tadeo Sauceda Flores en caso de que su equipo no se pone de acurdo.
 Este codigo esta diseñado por Tadeo Sauceda Flores ya que su equipo no habia mandado su parte el dia 20/05/2025 para antes del medio dia y a el le tocaba organizar todo el codigo y que las funciones funcionaran corectamente y sean compatibles entre si.
 este codigo carga un archivo .csv que contiene la informacion de ingresos y gastos de una familia. el archivo tiene que estar diseñado con el siguiente formato en la primera fila (fecha, monto, categoria) 
